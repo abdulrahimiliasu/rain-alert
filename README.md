@@ -1,4 +1,4 @@
-#Rain Alert
+# Rain Alert
 
 This python program helps by sending a text messages to your mobile phone whenever it's about to rain.
 
